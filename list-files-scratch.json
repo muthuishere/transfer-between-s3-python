@@ -1,0 +1,38 @@
+{
+  'ResponseMetadata': {
+    'RequestId': '477S0SGQ5FBE6BHQ',
+    'HostId': '2FLjkFlXbE2acSpsjtiK93cjp/xbdoJjlGh39GfPH6vxvaE0mzRI/5jx4y7xD+oZKe9v35BZoFw=',
+    'HTTPStatusCode': 200,
+    'HTTPHeaders': {
+      'x-amz-id-2': '2FLjkFlXbE2acSpsjtiK93cjp/xbdoJjlGh39GfPH6vxvaE0mzRI/5jx4y7xD+oZKe9v35BZoFw=',
+      'x-amz-request-id': '477S0SGQ5FBE6BHQ',
+      'date': 'Sun, 18 Apr 2021 05:44:57 GMT',
+      'x-amz-bucket-region': 'us-east-2',
+      'content-type': 'application/xml',
+      'transfer-encoding': 'chunked',
+      'server': 'AmazonS3'
+    },
+    'RetryAttempts': 1
+  },
+  'IsTruncated': False,
+  'Contents': [
+    {
+      'Key': 'my-Bella Ciao - La Casa de Papel.mp4',
+      'LastModified': datetime.datetime(2021,
+      4,
+      17,
+      12,
+      35,
+      2,
+      tzinfo=tzutc()),
+      'ETag': '"fd865fbaaa55f89759183a6d465c2208-2"',
+      'Size': 18561176,
+      'StorageClass': 'STANDARD'
+    }
+  ],
+  'Name': 'muthuishere-bucket-a',
+  'Prefix': '',
+  'MaxKeys': 1000,
+  'EncodingType': 'url',
+  'KeyCount': 1
+}

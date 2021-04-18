@@ -4,6 +4,6 @@ Transfer files between s3 buckets
 
  A sample project in python to transfer contents between  s3 buckets
  
- used a bit of rxPython with boto3
+   <sub><sup>Served with help of boto3 & rxPython</sup></sub>
  
  
